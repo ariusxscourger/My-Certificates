@@ -1,6 +1,5 @@
 # This file contains the links to these certificates
 
-
 Python for Everybody: [https://coursera.org/share/aa71a52e50b81f52e6e6b72a8cacec4e]()
 
 Programming for Everybody (Getting Started with Python): [https://coursera.org/share/39254049008315fde754d48474d2cf23]()
